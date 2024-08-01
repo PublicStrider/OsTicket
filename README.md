@@ -52,7 +52,3 @@ Step # 7
 
 Once the extensions are enabled you should get a congradulations screen.
 
-
-Step # 8
-
-Success !!! os Ticket is officialy installed and usable in your VM
