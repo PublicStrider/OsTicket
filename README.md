@@ -1,5 +1,5 @@
 # OsTicket
-This will be on how to get osTicket setup from scratch. First lets talk about OSTickets - Prerequisites and Installation
+This will be on how to get osTicket setup from scratch. First lets talk about OSTickets Prerequisites and Installation Process.
 Prerequisites and installation of the open-source help desk ticketing system osTicket.
 Environments and Technologies Used
 Microsoft Azure (Virtual Machines/Compute)
