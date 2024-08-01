@@ -20,17 +20,17 @@ Intsalled CGI with IIS, enable the use of PHP manager to use os.
 
 Step # 1
 
-Installation of PHP manager to utilize os-ticket application
+Installation of PHP manager to use os-ticket application
 
 
 Step # 2
 
-You then have to enable PHP by using the PHP manager we installed on the VM earlier
+Enable PHP by using the PHP manager, installed on the VM earlier
 
 
 Step # 3
 
-PHP should now be enabled on your VM
+PHP will now be enabled
 
 
 Step # 4
@@ -50,7 +50,7 @@ Installation of os-Ticket due to some extensions not working properly we must en
 
 Step # 7
 
-Once enabling the extensions you should get the following screen
+Once the extensions are enabled you should get a congradulations screen.
 
 
 Step # 8
